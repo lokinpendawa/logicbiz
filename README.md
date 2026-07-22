@@ -12,7 +12,7 @@ LOGICBIZ is a POS system engineered using a **Pure Declarative Paradigm** powere
 
 ## 🚀 Performance Benchmarks (Real-World Stress Testing)
 
-![Stress Test Performance](strest test 2jt data.png)
+![Stress Test Performance](strest%20test%202jt%20data.png)
 
 The system has been strictly validated under high-workload scenarios on minimal legacy hardware configurations, yielding the following performance metrics:
 
