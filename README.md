@@ -1,4 +1,4 @@
-# LOGICBIZ v2.0 - Enterprise Retail Brain & Sales Ledger
+# LOGICBIZ v2.0 - Enterprise POS & Sales Ledger
 
 LOGICBIZ is a POS system engineered using a **Pure Declarative Paradigm** powered by **Prolog (SWI-Prolog)**. Built as a direct response against bloated frameworks, this core engine focuses entirely on maximizing *First-Order Logic* to deliver extreme processing speeds, database security, and optimal memory efficiency.
 
