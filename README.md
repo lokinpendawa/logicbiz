@@ -48,3 +48,5 @@ This system is distributed under a proprietary *Closed-Source* commercial model 
 6. **Centralized Business Dashboard** (Real-time operational summary)
 7. **Sales Log Matrix** (Sub-second lifetime sales ledger querying and auditing)
 8. **RAM-to-DB Sync Engine** (Secure Offline-First synchronization via SQLite/SQLCipher)
+
+Note: All metrics and entries displayed above are generated using anonymized, simulated data strictly for stress-testing purposes.
