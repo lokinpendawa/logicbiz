@@ -17,6 +17,8 @@ The entire ecosystem is driven by a strict separation of concerns, avoiding mono
 * **`retail_display.pl`**: Drives the customer-facing mall display/TV monitor layout output (approx. 490 lines).
 * **`retail_functional_audit.pl`**: Orchestrates the automated core testing execution and outputs localized logs (approx. 250 lines).
 
+![Module Dependency Graph](gxrex_swi_prolog.png)
+
 ---
 
 #### 2. Deep Dive: Embedded Web Application Firewall & Security Guard
