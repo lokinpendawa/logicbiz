@@ -6,7 +6,6 @@ LOGICBIZ is a POS system engineered using a **Pure Declarative Paradigm** powere
 
 ![System Manifesto](manifesto.png)
 
-![System Manifesto](manifesto2.png)
 
 * **Extremely Low UI Overhead**: Powered by pure Server-Side Rendering (SSR) HTML-Prolog executing directly from core memory, allocating 100% of raw CPU resources for microsecond transactions and seamless AI inference.
 * **Keyboard-Driven Command**: Engineered for high-traffic retail environments. The cashier workflow is entirely isolated from mouse/touch reliance, driving military-style efficiency via lightning-fast keyboard shortcuts (F2, F4, F7, F9).
