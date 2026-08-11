@@ -49,3 +49,9 @@ This system is distributed under a proprietary *Closed-Source* commercial model 
 8. **RAM-to-DB Sync Engine** (Secure Offline-First synchronization via SQLite/SQLCipher)
 
 Note: All metrics and entries displayed above are generated using anonymized, simulated data strictly for stress-testing purposes.
+
+## ☕ Support the Journey
+If you find my retail datasets, industrial-grade benchmarks, or core logic optimizations useful for the Prolog ecosystem, please consider supporting this solo bootstrapping journey!
+
+[![Ko-fi](https://ko-fi.com)](https://ko-fi.com/lokinpendawa)
+
