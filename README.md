@@ -53,7 +53,7 @@ Note: All metrics and entries displayed above are generated using anonymized, si
 ## ☕ Support the Journey
 If you find my retail datasets, industrial-grade benchmarks, or core logic optimizations useful for the Prolog ecosystem, please consider supporting this solo bootstrapping journey!
 
-[![Support Me on Ko-fi](https://ko-fi.com)](https://ko-fi.com/lokinpendawa)
+[👉 Support Me on Ko-fi](https://ko-fi.com/lokinpendawa)
 
 
 
