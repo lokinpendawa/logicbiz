@@ -68,6 +68,40 @@ Below is the verified performance breakdown of the scale-up test utilizing a dat
 * **Effective Real-Time Speed**: The entire sequence of processing 2,000,000 data entries was completed in 653.967 seconds of CPU time. The system maintained a highly consistent and efficient processing throughput under massive stress.
 * **Ultra-Efficient Resource Utilization**: The system managed this intense cryptographic load with extreme efficiency, consuming an average of only 16% CPU usage, leaving plenty of processor headroom for other system operations.
 
+### Enterprise-Scale Mass Auditing and Cryptographic Forensic Verification Benchmark
+
+This benchmark demonstrates the system's ability to handle high-volume enterprise data while maintaining strict cryptographic security and data integrity without any memory leaks.
+
+#### 📊 Performance Summary
+* **Total Audited Invoices:** 1,199,976
+* **Logical Inferences:** 398,588,532
+* **Total CPU Execution Time:** 593.484 seconds
+* **Cryptographic Signatures:** SHA-256 (Secure Hash Algorithm 256-bit)
+* **Storage Encryption Layer:** SQLCipher (256-bit AES Component)
+
+#### 🛡️ Data Integrity & Health Validation
+* **Integrity Status [OK]:** 1,199,976
+* **Integrity Status [FAIL]:** 0
+* **Data Health Ratio:** 100.00% (Perfect Match)
+* **Status:** **100% HEALTHY.** Every single cryptographic signature matches the original data asset perfectly. Zero data corruption, zero structural manipulation, and zero verification failures detected across the entire 1.2-million dataset.
+
+#### 🧠 Memory Profile & Resource Efficiency
+* **Stack Allocation Retention:** Total memory in use was kept strictly under **400 Kb** (`393 Kb` active footprint) despite processing over 1.19 million records.
+* **Garbage Collection (GC) Stability:** Extremely responsive memory cleaning with 11 main garbage collections gaining back 20,293,008 bytes in just **0.031 seconds**. 
+* **Concurrency and Safety:** Fully protected under Native Asynchronous WAL Mode via Physical Hardware and Atomic Mutex Cross-Recursion Protection.
+
+![Enterprise Scale Memory and Logic Profiling](sha_256_validasi.png)
+
+#### 💻 Test Environment & Hardware Specifications
+The application achieved these massive enterprise-grade throughputs on a standard, resource-constrained hardware setup, proving exceptional architectural optimization:
+* **Processor Architecture:** AMD64 (AuthenticAMD Family 23 Model 17 Stepping 0 — 8 Cores / 16 Threads)
+* **System Memory:** 8.0 GB Physical RAM (Hardware Reserved: 1.1 GB for Integrated AMD Radeon GPU | Total Usable RAM: 6.9 GB)
+* **Runtime Platform:** SWI-Prolog Console Engine
+
+
+
 Conclusion: This scale-up test definitively proves the enterprise-grade reliability of the application's High-Reliability Engine architecture. It handles millions of multi-layered cryptographic operations smoothly while keeping resource consumption ultra-low and ensuring zero system downtime.
+
+
 
 (P.S. Please excuse any awkward phrasing in my responses, as I do not speak English fluently and am using an AI assistant to translate my thoughts from Indonesian.)
